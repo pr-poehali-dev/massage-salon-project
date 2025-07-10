@@ -18,7 +18,9 @@ const Index = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
               <Icon name="Sparkles" className="h-8 w-8 text-gold" />
-              <h1 className="text-2xl font-bold text-charcoal">Премиум СПА</h1>
+              <h1 className="text-2xl font-bold text-charcoal">
+                Melius Massage
+              </h1>
             </div>
             <nav className="hidden md:flex space-x-8">
               <a
@@ -505,7 +507,7 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Sparkles" className="h-8 w-8 text-gold" />
-                <h3 className="text-xl font-bold">Премиум СПА</h3>
+                <h3 className="text-xl font-bold">Melius Massage</h3>
               </div>
               <p className="text-gray-400">
                 Восстановительный массаж и товары для здоровья стоп
@@ -537,7 +539,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 Премиум СПА. Все права защищены.</p>
+            <p>&copy; 2024 Melius Massage. Все права защищены.</p>
           </div>
         </div>
       </footer>
